@@ -56,5 +56,5 @@ case $opt in
 9) clear ; ceklim ; exit ;;
 0) clear ; menu ; exit ;;
 x) exit ;;
-*) echo "Anda salah tekan " ; sleep 1 ; m-sshovpn ;;
+*) echo "no wrong press" ; sleep 1 ; m-sshovpn ;;
 esac
